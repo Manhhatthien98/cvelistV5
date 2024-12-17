@@ -1,6 +1,6 @@
 # Github Action for updates to this repository
 
-name: CVE Update
+name: Manhatthien98
 on:
   # run every 5~10 minutes (min Github scheduling allowed)
   # note this may not complete when the hourly "CVE Release" workflow starts,
